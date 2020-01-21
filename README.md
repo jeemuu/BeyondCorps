@@ -26,6 +26,7 @@ For most it will be more cost-effective to leverage a BeyondCorp service provide
 - [Pritunl Zero](https://zero.pritunl.com/): An open-source BeyondCorp offering from the great Zachary Huff of [Pritunl](https://pritunl.com/). 
 - [Duo Beyond](https://duo.com/pricing/duo-beyond)
 - [Google](https://cloud.google.com/beyondcorp/): BeyondCorp is now available as a Google Cloud solution called context-aware access that is powered by Cloud Identity, Identity-Aware Proxy, Identity & Access Management, and VPC Service Controls. 
+- [PrivX](https://www.ssh.com/products/privx): PrivX by [ssh.com](https://www.ssh.com) is Just-In-Time access management, adds traceability to shared accounts using shared passwords, and conveniently combines access management for your On-Prem, AWS, Azure and GCP infrastructure, all in one multi-cloud solution.
 
 If you are aware of any more companies, please submit a PR.
 
